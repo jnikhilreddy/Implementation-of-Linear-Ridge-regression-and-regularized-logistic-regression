@@ -37,8 +37,8 @@ data into higher dimension space for different degree and implement logistic reg
 it. We analyse performance of Logistic Regression by varying Regularisation parameter.
 
 Required Tools
-• Numpy
 
+• Numpy
 
 • Matplotlib
 
